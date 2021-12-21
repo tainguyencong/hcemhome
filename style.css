@@ -140,6 +140,7 @@ a {
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;
+	padding: 10px 0px;
 }
 
 .logo {
@@ -153,7 +154,6 @@ a {
 }
 
 .header-main-right {
-	margin-top: 10px;
 	margin-left: auto;
 	align-self: start;
 	display: flex;
