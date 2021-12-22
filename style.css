@@ -715,6 +715,10 @@ a {
 	color: white;
 }
 
+.facebook {
+	margin-top: 30px;
+}
+
 @media screen and (max-width: 1023px) {
 	.main-right {
 	width: 100%;
